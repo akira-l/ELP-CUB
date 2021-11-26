@@ -1,0 +1,9 @@
+nohup: ignoring input
+Model 1: 0.717
+Model 2: 0.718
+Model 3: 0.704
+Model 4: 0.699
+Model 5: 0.695
+Equal Weights Score: 0.728
+Optimized Weights: [0.24893419 0.23373007 0.224574   0.13610493 0.15665682]
+Optimized Weights Score: 0.731
